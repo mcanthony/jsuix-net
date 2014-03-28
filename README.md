@@ -17,7 +17,7 @@ I figured it would be fun to write an in-browser virtual networking protocol for
 8. Network protocol for accessing real HTTP (through JSON-P or something)
 9. Perhaps most importantly, das blinkenlichten
 
-URIs/URLs use my own networking protocol called vip:// (virtual internet protocol, not the actual VPN stuff)
+URIs/URLs use my own networking protocol called vip:// (not the actual virtual ip stuff that I found out existed later)
 
 
 My files are:
